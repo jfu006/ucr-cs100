@@ -1,1 +1,19 @@
-/ 100
+15 / 100
+
+-5: No example of a command with greater than 10 parameters
+-5: Running a command in the local directory yields unexpected results
+-5: No examples of the effect of spacing on commands and arguments
+
+-15: No examples of commands connected with separators
+-5: No examples of a long chain of commands
+-10: No examples of mixing and matching connectors
+-5: No examples of the effect of whitespace on seaprators
+
+-5: No examples of exit with parameters
+-5: No examples of exit as a parameter to another command
+-5: No example of exit as a part of a compound command
+
+-5: Example of comment on a line by itself yields unexpected results
+-5: No examples of a comment immediately adjacent to a command
+
+-20: binary file in repo
