@@ -1,4 +1,14 @@
- 0    / 100  
+0 / 100
+
+-100: ls implementation not found
+-25: -a flag doesn't work
+-25: -l flag doesn't work
+-25: -R flag doesn't work
+-25: file/folder parameter doesn't work
+
+-5: missing parameter combination -la, -lR, -aR, -laR
+-5: missing ordering test -R -l, -Rl, -R -a -l
+
 
 
 
